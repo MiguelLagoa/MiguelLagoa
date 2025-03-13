@@ -7,5 +7,5 @@ My main focus is to practice and improve my Python / R / SQL / PowerBi skills in
 - Data Analytics
 - Blockchain tech
 - Software Dev
-- (whatever the future me decides to try)
+- (Whatever the future me decides to try)
 
