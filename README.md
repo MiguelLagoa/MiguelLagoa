@@ -2,7 +2,7 @@
 
 My name is Miguel and I welcome you to my page. I will use this virtual space to post about my projects.<br/>
 
-My main focus is to improve my Python / R / SQL / PowerBi skills in the following topics:<br/>
+My main focus is to improve my Python / R / SQL / PowerBI skills in the following topics:<br/>
 - AI<br/>
 - Data Analytics<br/>
 - Blockchain tech<br/>
